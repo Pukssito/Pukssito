@@ -25,7 +25,7 @@
 - ✏️ También me gustaría seguir aprendiendo y creciendo como desarrollador de software
 
 <br>
-<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
