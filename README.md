@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">👋 Hola, soy <a>Gabriel!</a>👋 </h1>
 </div>
-<img src="https://goodrequest-web-development.s3.eu-central-1.amazonaws.com/621cdec7ec7a8fd24ab134f6_Java_20vs_20_Kotlin_20which_20is_20better_20for_20mobile_20application_20development_e9b996934b.png">
+<img src="https://hermes.dio.me/articles/cover/15d3b0a0-9b48-412d-ba84-5c2ea05a4fa4.jpg">
 
 ![Skill](https://img.shields.io/badge/Junior-developer-green)
 ![Lenguajes](https://img.shields.io/badge/Java-developer-red)
