@@ -4,6 +4,7 @@
 <img src="https://hermes.dio.me/articles/cover/15d3b0a0-9b48-412d-ba84-5c2ea05a4fa4.jpg">
 
 ![Lenguajes](https://img.shields.io/badge/Java-developer-red)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![FrontEnd](https://img.shields.io/badge/JavaFX-developer-blue)
 ![Maven](https://img.shields.io/badge/Maven-red)
 ![Gradle](https://img.shields.io/badge/Gradle-blue)
