@@ -3,14 +3,14 @@
 </div>
 <img src="https://hermes.dio.me/articles/cover/15d3b0a0-9b48-412d-ba84-5c2ea05a4fa4.jpg">
 
-![Lenguajes](https://img.shields.io/badge/Java-developer-red)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![FrontEnd](https://img.shields.io/badge/JavaFX-developer-blue)
-![Maven](https://img.shields.io/badge/Maven-red)
-![Gradle](https://img.shields.io/badge/Gradle-blue)
-![Postman](https://img.shields.io/badge/Postman-orange)
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-darkblue)
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+![Maven]((https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white))
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 [![GitHub followers](https://img.shields.io/github/followers/pukssito?style=social)](https://github.com/Pukssito)
 
 
