@@ -5,12 +5,10 @@
 
 ![Skill](https://img.shields.io/badge/Junior-developer-green)
 ![Lenguajes](https://img.shields.io/badge/Java-developer-red)
-![Lenguajes](https://img.shields.io/badge/Kotlin-developer-purple)
 ![FrontEnd](https://img.shields.io/badge/JavaFX-developer-blue)
 ![Maven](https://img.shields.io/badge/Maven-red)
 ![Gradle](https://img.shields.io/badge/Gradle-blue)
 ![Postman](https://img.shields.io/badge/Postman-orange)
-![Retrofit](https://img.shields.io/badge/Retrofit-lightgreen)
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-darkblue)
 [![GitHub followers](https://img.shields.io/github/followers/pukssito?style=social)](https://github.com/Pukssito)
